@@ -56,9 +56,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| 🐾 **[Pokedex](https://github.com/FahimOrko/Pokedex)** - Interactive CLI Pokémon Explorer | TypeScript CLI tool using the official PokéAPI to explore locations, encounter and catch Pokémon with probability-based mechanics, and build a personal Pokédex — with a 5-hour TTL caching layer to cut down on API calls | TypeScript, Node.js, PokéAPI, Vitest |
 | 🏡 **[The Blue Oasis](https://the-blue-oasis-lovat.vercel.app/)** - Cottage Booking Web App | Full-stack booking platform with real-time availability checks, NextAuth authentication, and secure session management | Next.js, NextAuth, Supabase, Tailwind CSS |
 | 🚆 **[TrackFinn](https://track-finn.vercel.app/)** - Real-Time Train Tracker | React app using the official VR API + Mapbox GL JS for live train tracking, real-time data viz, and advanced search filters | React, ReactQuery, Formik, Yup, Mapbox GL JS, Framer Motion |
-| 🐾 **[Pokedex](https://github.com/FahimOrko/Pokedex)** — Interactive CLI Pokémon Explorer | TypeScript CLI tool using the official PokéAPI to explore locations, encounter and catch Pokémon with probability-based mechanics, and build a personal Pokédex — with a 5-hour TTL caching layer to cut down on API calls | TypeScript, Node.js, PokéAPI, Vitest |
+
 
 ---
 
