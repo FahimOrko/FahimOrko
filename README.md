@@ -12,11 +12,11 @@
 ### 🚀 About Me
 
 - 🎓 Just wrapped up my **Bachelor of Information Technology** at **Centria University of Applied Sciences** (June 2026)
-- 🛠️ I build **AI-driven systems**, **REST APIs**, and **full-stack web apps** — and I genuinely enjoy the backend more than anyone probably should
+- 🛠️ I build **AI-driven systems**, **REST APIs**, and **full-stack web apps** - and I genuinely enjoy the backend more than anyone probably should
 - 🤖 Recently spent my time as an **RDI Student Assistant**, designing multi-assistant AI architectures and API gateways for a publicly funded voice automation project (PUDDES)
 - 💼 Before that, I was a **Software Development Intern at BrainBites AI**, migrating UI from Vue to React/TypeScript and automating workflows with Puppeteer + Slack
-- 🇫🇮 Currently on the hunt for a **junior developer role in Finland** — if you're hiring or know someone who is, let's talk!
-- 🗣️ I speak English & Bangla fluently, and I'm leveling up my Finnish (currently at A1 — *moi!*)
+- 🇫🇮 Currently on the hunt for a **junior developer role in Finland** - if you're hiring or know someone who is, let's talk!
+- 🗣️ I speak English & Bangla fluently, and I'm leveling up my Finnish (currently at A1 - *moi!*)
 
 ---
 
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
 </p>
 
 **Back-End**
@@ -57,16 +56,14 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏡 **[The Blue Oasis](#)** — Cottage Booking Web App | Full-stack booking platform with real-time availability checks, NextAuth authentication, and secure session management | Next.js, NextAuth, Supabase, Tailwind CSS |
-| 🚆 **[TrackFinn](#)** — Real-Time Train Tracker | React app using the official VR API + Mapbox GL JS for live train tracking, real-time data viz, and advanced search filters | React, ReactQuery, Formik, Yup, Mapbox GL JS, Framer Motion |
-
-> 💡 Replace the `#` links above with your live demo / docs / repo URLs!
+| 🏡 **[The Blue Oasis](https://the-blue-oasis-lovat.vercel.app/)** - Cottage Booking Web App | Full-stack booking platform with real-time availability checks, NextAuth authentication, and secure session management | Next.js, NextAuth, Supabase, Tailwind CSS |
+| 🚆 **[TrackFinn](https://track-finn.vercel.app/)** - Real-Time Train Tracker | React app using the official VR API + Mapbox GL JS for live train tracking, real-time data viz, and advanced search filters | React, ReactQuery, Formik, Yup, Mapbox GL JS, Framer Motion |
 
 ---
 
 ### 🌍 Leadership Highlight
 
-**Development Jam @ Centria UAS** — Front-End Team Lead
+**Development Jam @ Centria UAS** - Front-End Team Lead
 Led a 5-member international team (with German partners) to build a disaster-response web platform, delivering an MVP in just 6 weeks. Standardized dev practices, ran GitHub workflows, and shipped interactive earthquake aftershock visualizations.
 
 ---
@@ -84,4 +81,4 @@ Led a 5-member international team (with German partners) to build a disaster-res
 
 ---
 
-<p align="center">📫 Open to junior developer opportunities in Finland — reach out anytime!</p>
+<p align="center">📫 Open to junior developer opportunities in Finland - reach out anytime!</p>
