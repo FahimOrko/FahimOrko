@@ -2,7 +2,7 @@
 <h3 align="center">Backend-focused Software Developer | AI Systems & Full-Stack Web</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahimorko/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fahim-abrar-orko-2a211524a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fahimorko4122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Kokkola%2C%20Finland-blueviolet?style=for-the-badge" />
 </p>
